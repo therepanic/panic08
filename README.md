@@ -8,11 +8,18 @@ __________  _____    _______  .____________ _______     ______
 ```
 <br><br>
 <h1 align="center" style="font-size: 22px"> 😊 About me  😊</h1>
-<p align="center">Hi, my name is Andrey! I am definitely doing professional development in the Java language</p>
-
-<img src="https://c.tenor.com/RTXORfaYnY4AAAAC/asthetic-anime.gif" align="right" style="width:85%;max-width:190px;"/>
-<li><b>🖥️ I currently work at</b> Utron<b>, doing pet project development, pouring code into open-source in my spare time</b></li>
-<li><b>🤩 I'm currently learning</b> Java</li>
+<div style="display: flex; align-items: center; justify-content: center;">
+    <div style="flex: 1;">
+        <p>Hi, my name is Andrey! I am definitely doing professional development in the Java language</p>
+        <ul>
+            <li><b>🖥️ I currently work at</b> Utron<b>, doing pet project development, pouring code into open-source in my spare time</b></li>
+            <li><b>🤩 I'm currently learning</b> Java</li>
+        </ul>
+    </div>
+    <div style="flex: 1; text-align: center;">
+        <img src="https://c.tenor.com/RTXORfaYnY4AAAAC/asthetic-anime.gif" style="width: 150px; max-width: 190px;"/>
+    </div>
+</div>
 
 <br><br>
 
