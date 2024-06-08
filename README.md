@@ -10,7 +10,7 @@ __________  _____    _______  .____________ _______     ______
 <h1 align="center" style="font-size: 22px"> 😊 About me  😊</h1>
 <p align="center">Hi, my name is Andrey! I am definitely doing professional development in the Java language</p>
 
-<img src="https://c.tenor.com/RTXORfaYnY4AAAAC/asthetic-anime.gif" align="right" style="width:85%;max-width:190px;"/>
+<img src="https://c.tenor.com/RTXORfaYnY4AAAAC/asthetic-anime.gif" style="float:right; width:150px; margin-left:20px;"/>
 <li><b>🖥️ I currently work at</b> Utron<b>, doing pet project development, pouring code into open-source in my spare time</b></li>
 <li><b>🤩 I'm currently learning</b> Java</li>
 
