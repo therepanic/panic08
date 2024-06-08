@@ -1,26 +1,13 @@
-```
-__________  _____    _______  .____________ _______     ______  
-\______   \/  _  \   \      \ |   \_   ___ \\   _  \   /  __  \ 
- |     ___/  /_\  \  /   |   \|   /    \  \//  /_\  \  >      < 
- |    |  /    |    \/    |    \   \     \___\  \_/   \/   --   \
- |____|  \____|__  /\____|__  /___|\______  /\_____  /\______  /
-                 \/         \/            \/       \/        \/ 
-```
+<div align="center"><p>
+<img max-width="400" src="https://images.squarespace-cdn.com/content/v1/5e9735078bfca41aa0eafdec/1623422495955-C522R32XNQE823MDX1JZ/snow+gif.gif"/>
+  </p>
+</div>
 <br><br>
 <h1 align="center" style="font-size: 22px"> 😊 About me  😊</h1>
 <p align="center">Hi, my name is Andrey! I am definitely doing professional development in the Java language</p>
 
-<div style="display: flex; align-items: center; justify-content: center;">
-  <div style="flex: 1;">
-    <ul>
-      <li><b>🖥️ I currently work at</b> Utron<b>, doing pet project development, pouring code into open-source in my spare time</b></li>
-      <li><b>🤩 I'm currently learning</b> Java</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img src="https://c.tenor.com/RTXORfaYnY4AAAAC/asthetic-anime.gif" style="width: 150px;"/>
-  </div>
-</div>
+<li><b>🖥️ I currently work at</b> Utron<b>, doing pet project development, pouring code into open-source in my spare time</b></li>
+<li><b>🤩 I'm currently learning</b> Java</li>
 
 <br><br>
 
