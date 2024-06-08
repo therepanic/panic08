@@ -1,10 +1,10 @@
 <div align="center"><p>
-<img max-width="400" src="https://images.squarespace-cdn.com/content/v1/5e9735078bfca41aa0eafdec/1623422495955-C522R32XNQE823MDX1JZ/snow+gif.gif"/>
+<img max-width="400" src="https://media1.tenor.com/m/3cjgLiuS1s4AAAAC/date-a-live-blue-hair.gif"/>
   </p>
 </div>
 <br><br>
 <h1 align="center" style="font-size: 22px"> 😊 About me  😊</h1>
-<p align="center">Hi, my name is Andrey! I am definitely doing professional development in the Java language</p>
+<p align="center">Hi, my name is Andrey! I'm a professional software developer</p>
 
 <li><b>🖥️ I currently work at</b> Utron<b>, doing pet project development, pouring code into open-source in my spare time</b></li>
 <li><b>🤩 I'm currently learning</b> Java</li>
