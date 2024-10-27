@@ -4,7 +4,7 @@
 </div>
 <br><br>
 <h1 align="center" style="font-size: 22px"> ✨ About me  ✨</h1>
-<p align="center">Hi, my name is Andrey! I'm a software engineer</p>
+<p align="center">Hey, my name is Andrey! I'm a software engineer</p>
 
 <li><b>🖥️ I'm currently working, doing pet project development, contributing into open-source projects in my spare time</b></li>
 <li><b>🤩 I'm currently learning</b> Java</li>
